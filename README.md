@@ -1,6 +1,7 @@
 OSCam: Open Source Conditional Access Module
 ============================================
 
+[![oscam build](https://github.com/nickersk/oscam/actions/workflows/oscam.yml/badge.svg)](https://github.com/nickersk/oscam/actions/workflows/oscam.yml)
 
 License
 =======
